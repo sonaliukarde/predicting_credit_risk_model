@@ -33,3 +33,7 @@ Build the Random Forest Classifier model with best estimator.
 Predicting the test using this model. Using the confusion matrix, the accuracy score : 74%
 
 Test data set should be in .csv format
+
+<H3><B>Attachments</B></H3>
+
+1) 
