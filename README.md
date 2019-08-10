@@ -36,4 +36,5 @@ Test data set should be in .csv format
 
 <H3><B>Attachments</B></H3>
 
-1) 
+1) german_credit_data.csv : Contains the credit card details
+2) predicting-credit-risk-model-Python : Python code file
